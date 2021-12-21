@@ -1,0 +1,1 @@
+LG AI_Friend NPC POC project
